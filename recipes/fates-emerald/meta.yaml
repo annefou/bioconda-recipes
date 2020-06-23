@@ -36,6 +36,7 @@ requirements:
         - make
         - cmake
         - mkl
+        - wget
 
 test:
     commands:
