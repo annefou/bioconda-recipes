@@ -50,7 +50,7 @@ about:
     license: BSD 3-Clause
     license_family: BSD
     license_file: LICENSE.txt
-    summary: The EMERALD version of the Functionally Assembled Terrestrial Ecosystem Simulator (FATES) with Community Terrestrial Systems Model as host model is maintained by the University of Oslo. In this version FATES can be run on a number of pre-defined sites (in the Nordic regions) where in-situ observations are collected.
+    summary: The EMERALD version of the Functionally Assembled Terrestrial Ecosystem Simulator (FATES) with Community Terrestrial Systems Model as host model is maintained by the University of Oslo. 
     doc_url: https://github.com/NordicESMhub/ctsm/blob/fates_emerald_api/README_fates_emerald_api
 
 extra:
@@ -58,3 +58,6 @@ extra:
     - annefou
   skip-lints:
     - compilers_must_be_in_build
+  notes: |
+     This is a customized version of the Functionally Assembled Terrestrial Ecosystem Simulator (FATES). In this version FATES can be run on a number of pre-defined sites (in the Nordic regions) where in-situ observations are collected. If a user would like to make research on new sites, please contact the maintainer.
+
