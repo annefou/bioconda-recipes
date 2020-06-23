@@ -7,7 +7,7 @@ package:
 
 source:
     url: https://github.com/NordicESMHub/ctsm/archive/release-emerald{{ version }}.tar.gz
-    sha256: 2853b98b7cab8edbc5ccf9686ac795fd
+    sha256: 5a1e2c0a8189403af82ff5cc7fc8214c6d1188781d792438b2d280b49f0ffff1
 
 build:
     skip: True  # [win or osx]
